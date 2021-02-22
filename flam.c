@@ -5,6 +5,8 @@ int main(int argc, char *argv[]){
 	int i;
 	for(i = 0; i < sizeof(a_word); i++){
 		printf("%c\n", a_word[i]);
-	}	
+	}
+
+	printf("flam1\n");	
 }
 
