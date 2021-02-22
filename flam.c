@@ -8,5 +8,7 @@ int main(int argc, char *argv[]){
 	for(i = 0; i < strlen(a_word); i++){
 		printf("%c\n", a_word[i]);
 	}	
+
+	printf("flam2\n");
 }
 
