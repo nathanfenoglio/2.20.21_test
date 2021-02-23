@@ -7,8 +7,12 @@ int main(int argc, char *argv[]){
 	int i;
 	for(i = 0; i < strlen(a_word); i++){
 		printf("%c\n", a_word[i]);
-	}	
+	}
 
+//leaving both print statements because it's ok
 	printf("flam2\n");
+	
+
+	printf("flam1\n");	
 }
 
